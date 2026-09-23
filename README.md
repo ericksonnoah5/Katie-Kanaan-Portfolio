@@ -5,6 +5,8 @@
 
 **Live demo:** https://katie-k.vercel.app
 
+![Katie Kanaan portfolio homepage with introduction and portrait](docs/screenshots/katie-kanaan-portfolio.jpg)
+
 ## Overview
 
 A single-page portfolio built for Katie Kanaan, a medical student at the
